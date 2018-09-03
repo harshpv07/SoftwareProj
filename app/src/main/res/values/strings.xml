@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Main1</string>
+    <string-array name="documents">
+        <item>Debit card</item>
+        <item>Credit card</item>
+        <item>Passport</item>
+        <item>Driving License</item>
+    </string-array>
+</resources>
